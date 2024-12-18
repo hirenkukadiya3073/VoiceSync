@@ -43,9 +43,7 @@ VoiceSync is a web application that enables users to record or upload audio file
 ### Prerequisites
 
 Before setting up the project, ensure the following are installed:
-- **Node.js** (v14 or higher)
-- **npm** (v6 or higher)
-- **Hugging Face API Key**
+- **Hugging Face API Key or Model**
 - **Google Cloud Translate API Key**
 
 ---
