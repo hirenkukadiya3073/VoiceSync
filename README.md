@@ -34,7 +34,7 @@ VoiceSync is a web application that enables users to record or upload audio file
 - **Google Translate API**: For translating text into different languages.
 
 ### Additional Tools
-- **PDF Generation**: To export transcriptions and translations.
+- **.txt Generation**: To export transcriptions and translations.
 
 ---
 
